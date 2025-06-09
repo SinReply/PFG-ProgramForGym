@@ -30,7 +30,7 @@ Para más detalles, consulta el archivo [`LICENSE.txt`](./LICENSE.txt).
 
 ## 📥 Descarga
 
-Haz clic [aquí](./releases/PFG.exe) para descargar la última versión del ejecutable.
+Haz clic [aquí](./releases/PFG_0.0.1.exe) para descargar la última versión del ejecutable.
 
 > ⚠️ Asegúrate de ejecutar el programa en un entorno Windows moderno y actualizado. No se ofrece soporte para otros sistemas operativos.
 
