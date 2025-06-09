@@ -20,6 +20,8 @@ Este software se entrega bajo una **licencia de uso personal**:
 - **No se permite modificar, redistribuir, desensamblar, ni comercializar el programa.**
 - Cualquier uso indebido del ejecutable podrá ser considerado una violación de los derechos del autor.
 
+Si deseas otro tipo de uso, contacta directamente con el autor.
+
 Para más detalles, consulta el archivo [`LICENSE.txt`](./LICENSE.txt).
 
 ---
@@ -30,7 +32,7 @@ Para más detalles, consulta el archivo [`LICENSE.txt`](./LICENSE.txt).
 
 ## 📥 Descarga
 
-Haz clic [aquí](./releases/PFG_0.0.1.exe) para descargar la última versión del ejecutable.
+v
 
 > ⚠️ Asegúrate de ejecutar el programa en un entorno Windows moderno y actualizado. No se ofrece soporte para otros sistemas operativos.
 
@@ -38,3 +40,15 @@ Haz clic [aquí](./releases/PFG_0.0.1.exe) para descargar la última versión de
 
 ¿Tienes alguna sugerencia, reporte o comentario?  
 Puedes dejarlo en la sección de *Issues* del repositorio o contactar directamente a través del perfil del autor.
+
+
+---
+
+## Estado futuro
+
+Esta aplicación se encuentra aún en sus primeras etapas. El objetivo es seguir desarrollándola, puliendo detalles y expandiendo funciones.  
+Puedes seguir el progreso a través de este repositorio. Se aceptan ideas, pero no pull requests.
+
+---
+
+© 2025 - Proyecto desarrollado con intención personal, disciplina y visión a largo plazo.
