@@ -1,26 +1,40 @@
-# Programa de Seguimiento de Gimnasio (PFG)
+# PFG - Programa en Desarrollo para Seguimiento de Entrenamiento
 
-Este programa ha sido desarrollado como una herramienta personal de seguimiento y control del entrenamiento. Es un ejecutable independiente que funciona sin necesidad de instalar Python ni otras dependencias externas.
+**PFG** (siglas de *Program for Gym*) es una aplicación de escritorio en desarrollo, diseñada para ofrecer una forma estructurada y sencilla de registrar, organizar y seguir el progreso del entrenamiento personal. Su objetivo es ser una herramienta útil, ligera y directa, adaptada a rutinas reales.
 
-## 🧠 Características principales
+## ⚙️ Estado del Proyecto
 
-- Registro estructurado de entrenamientos, adaptado a rutinas personales.
-- Interfaz gráfica simple y funcional.
-- Almacenamiento y recuperación automática de datos.
-- Completamente funcional sin conexión a internet.
+- 🚧 El desarrollo de PFG está en curso. Algunas funciones pueden cambiar o expandirse en futuras versiones.
+- 🖥️ Actualmente está disponible únicamente para sistemas **Windows**.
+- 📦 El ejecutable distribuido no requiere instalación ni conexión a internet para su funcionamiento básico, aunque ciertas características pueden depender del entorno del sistema operativo.
 
-## 🔒 Seguridad y Protección
+## 🔐 Protección y Seguridad
 
-Este ejecutable ha sido protegido para preservar su integridad y evitar modificaciones no autorizadas. Ha sido firmado digitalmente para garantizar su autenticidad.
+Este software ha sido creado con un enfoque en la privacidad del usuario y la protección de la integridad del código. El ejecutable está firmado digitalmente y protegido contra modificaciones no autorizadas. No se distribuye el código fuente, ni se ofrece como software de código abierto.
 
-## 📄 Licencia
+## 📋 Licencia
 
-Este software se distribuye bajo una **licencia de uso personal**.  
-- **Solo está permitido usarlo de forma individual y no comercial.**  
-- **No se permite modificar, distribuir ni comercializar este programa.**
+Este software se entrega bajo una **licencia de uso personal**:
 
-Consulta el archivo `LICENSE.txt` para más detalles.
+- Está permitido usar la aplicación de forma individual y no comercial.
+- **No se permite modificar, redistribuir, desensamblar, ni comercializar el programa.**
+- Cualquier uso indebido del ejecutable podrá ser considerado una violación de los derechos del autor.
+
+Para más detalles, consulta el archivo [`LICENSE.txt`](./LICENSE.txt).
 
 ---
 
-> Si quieres contactar conmigo para colaboración, dudas o seguimiento del proyecto, puedes hacerlo a través del repositorio o bien contactándome al correo.
+> Este proyecto es una creación personal, realizada en Python, usando diversos módulos nativos y librerías para el entorno gráfico y la gestión de datos. No se proporcionan más detalles técnicos para proteger la integridad de su funcionamiento interno.
+
+---
+
+## 📥 Descarga
+
+Haz clic [aquí](./PFG.exe) para descargar la última versión del ejecutable.
+
+> ⚠️ Asegúrate de ejecutar el programa en un entorno Windows moderno y actualizado. No se ofrece soporte para otros sistemas operativos.
+
+---
+
+¿Tienes alguna sugerencia, reporte o comentario?  
+Puedes dejarlo en la sección de *Issues* del repositorio o contactar directamente a través del perfil del autor.
