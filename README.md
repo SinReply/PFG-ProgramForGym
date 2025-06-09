@@ -32,7 +32,7 @@ Para más detalles, consulta el archivo [`LICENSE.txt`](./LICENSE.txt).
 
 ## 📥 Descarga
 
-v
+➡️ [Descargar PFG.exe](https://github.com/SinReply/PFG-ProgramForGym/releases/download/v0.0.1/PFG.exe)
 
 > ⚠️ Asegúrate de ejecutar el programa en un entorno Windows moderno y actualizado. No se ofrece soporte para otros sistemas operativos.
 
