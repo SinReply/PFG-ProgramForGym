@@ -51,4 +51,4 @@ Puedes seguir el progreso a través de este repositorio. Se aceptan ideas, pero 
 
 ---
 
-© 2025 - Proyecto desarrollado con intención personal, disciplina y visión a largo plazo.
+© 2025
